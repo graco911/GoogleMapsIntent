@@ -1,0 +1,4 @@
+GoogleMapsIntent.MainActivity, GoogleMapsIntent;md51e67409ea016d39ecbe9722e23612f14.MainActivity
+GoogleMapsIntent.MainActivity, GoogleMapsIntent, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51e67409ea016d39ecbe9722e23612f14.MainActivity
+GoogleMapsIntent.MainActivity;md51e67409ea016d39ecbe9722e23612f14.MainActivity
+googlemapsintent.MainActivity;md51e67409ea016d39ecbe9722e23612f14.MainActivity
